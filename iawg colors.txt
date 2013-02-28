@@ -1,0 +1,8 @@
+Top Bg 3985e5
+Body bg / search bg 69a3ed
+Search border 2969ba
+Search button solid 62a7ff
+
+Tab menu bg color c1d4ee
+Tab menu text 2d6dbe
+Tab bg eeeeee
